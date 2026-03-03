@@ -1,7 +1,6 @@
 package com.revhire.user.controller;
 
 import com.revhire.user.dto.*;
-import com.revhire.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
